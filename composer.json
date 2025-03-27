@@ -1,0 +1,17 @@
+{
+    "name": "gabrielcampos/luz-planilhas-back",
+    "autoload": {
+        "psr-4": {
+            "Gabrielcampos\\LuzPlanilhasBack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gabrielalc23",
+            "email": "gabriellopes.campos23@gmail.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
