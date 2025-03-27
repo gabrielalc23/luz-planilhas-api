@@ -12,6 +12,9 @@
         }
     ],
     "require": {
-        "nikic/fast-route": "^1.3"
+        "nikic/fast-route": "^1.3",
+        "doctrine/orm": "^3.3",
+        "doctrine/dbal": "^4.2",
+        "symfony/cache": "^7.2"
     }
 }
